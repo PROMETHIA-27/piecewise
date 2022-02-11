@@ -1,4 +1,4 @@
-#![feature(fn_traits, unboxed_closures, generic_associated_types)]
+#![feature(decl_macro, fn_traits, unboxed_closures, generic_associated_types)]
 
 pub mod tuple_traits;
 pub mod partial_application;
