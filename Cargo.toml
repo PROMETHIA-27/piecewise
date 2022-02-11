@@ -2,7 +2,12 @@
 name = "piecewise"
 version = "0.1.0"
 edition = "2021"
-author = "PROMETHIA"
+authors = ["PROMETHIA"]
+description = "A partial application library"
+readme = "README.md"
+license-file = "LICENSE"
+license = "MIT"
+repository = "https://github.com/PROMETHIA-27/piecewise"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
